@@ -15,6 +15,10 @@ Quantitative risk analytics engine for evaluating trading strategy stability.
 ## Example Usage
 
 ```python
+## Installation
+
+```bash
+pip install numpy
 from risk_engine import RiskEngine
 
 engine = RiskEngine()
